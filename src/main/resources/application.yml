@@ -2,10 +2,10 @@ spring:
   application:
     name: product
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/springcloud_sell?serverTimezone=GMT%2B8
+    url: jdbc:mysql://120.77.252.112:3306/springcloud_sell?serverTimezone=GMT%2B8
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: root
+    password: gexiao
   jpa:
     show-sql: true
 
